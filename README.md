@@ -8,7 +8,7 @@ The design should be decentralized.
 
 There should be a distributed package manager that allows a user to build binaries and upload them via a system that also keeps track of stuff. It should work closely with version control systems.
 
-Want a binary? Grab it from some repo / user you trust. (or build from the source code and upload your binary to your server and share it)
+Want a binary? Grab it from some repo/user you trust. (Or build from the source code and upload your binary to your server and share it)
 
 You would not be stuck with libwhatever-1.0.2 when version 3.14.15 is already available.
 
